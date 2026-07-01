@@ -30,7 +30,7 @@ if "fase" not in st.session_state:
 avatares = ["👩🏻‍🔬", "👩🏾‍🦱", "👨🏻‍🎓", "👨‍🎤"]
 
 salas = [
-    "Recepção",
+    "Início da jornada",
     "Biblioteca",
     "Sala do Pesquisador",
     "Sala dos Documentos",
