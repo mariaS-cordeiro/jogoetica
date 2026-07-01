@@ -1,10 +1,6 @@
 import streamlit as st
 
-st.set_page_config(
-    page_title="LABPE",
-    page_icon=icone,
-    layout="wide"
-)
+st.set_page_config(page_title="LABPE", page_icon="🏛️", layout="wide")
 
 st.markdown("""
 <style>
